@@ -52,45 +52,23 @@ The goal of this lab is to understand how Active Directory is used in real IT en
 
 
 
-\## Skills Demonstrated
+\## Screenshots
 
 
 
-\- Windows Server administration
+\### Server Manager
 
-\- User and group management
-
-\- Domain setup
-
-\- Basic networking
-
-\- File permissions
-
-\- Group Policy configuration
-
-\- IT troubleshooting documentation
+!\[Server Manager](screenshots/server-manager.png)
 
 
 
-\## Future Improvements
+\### Active Directory Users
+
+!\[Active Directory Users](screenshots/active-directory-users.png)
 
 
 
-\- Add screenshots
+\### Shared Folder
 
-\- Add network diagram
-
-\- Add PowerShell automation
-
-\- Add password policy documentation
-
-\- Add troubleshooting notes
-
-
-
-\## Author
-
-
-
-Norbert Agius
+!\[Shared Folder](screenshots/shared-folder.png)
 
